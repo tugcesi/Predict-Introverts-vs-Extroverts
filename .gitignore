@@ -3,6 +3,9 @@ model.joblib
 scaler.joblib
 feature_columns.joblib
 
+# CatBoost training logs
+catboost_info/
+
 # Python
 __pycache__/
 *.py[cod]
